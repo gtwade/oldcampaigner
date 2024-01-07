@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0L51q2FmE1XrKNFDN3tKgnuPs6o5lcZfb+pshYTe1wTb81NTTlhd/OA+3S8wnwn165uRsAiaZj+vE32moUCQxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gtwad\\source\\repos\\rpgCampaigner\\rpgCampaigner\\rpgCampaigner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gtwad\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
